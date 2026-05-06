@@ -73,6 +73,8 @@ tensorflow
 transformers
 statsmodels
 ```
+## 📁 Project Structure
+
 ```bash
 twitter-sentiment-analysis/
 │
