@@ -72,7 +72,7 @@ scikit-learn
 tensorflow
 transformers
 statsmodels
-```bash
+```
 
 twitter-sentiment-analysis/
 │
