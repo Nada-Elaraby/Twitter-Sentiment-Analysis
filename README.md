@@ -73,7 +73,7 @@ tensorflow
 transformers
 statsmodels
 ```
-
+```bash
 twitter-sentiment-analysis/
 │
 ├── twitter_sentiment_analysis.py    # Main code file
